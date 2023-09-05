@@ -8,9 +8,13 @@ I recently the fastapi by [Tiangolo](https://fastapi.tiangolo.com/) to build my 
 
 I have a deeper understanding of PHP and it's Laravel framework
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzivo&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nzivo&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nzivo&layout=donut-vertical&langs_count=8&card_width=320" />
+</a>
 
-![Nzivo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzivo&show_icons=true&theme=tokyonight)
 <!--
 **nzivo/nzivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
