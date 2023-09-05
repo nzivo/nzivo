@@ -4,9 +4,9 @@
 
 I have a good grasp in vanilla Javascript and two of it's popular frameworks, React Js and Vue Js.
 
-Recently I have been learning the fastapi by [Tiangolo](https://fastapi.tiangolo.com/) to build my backend and I find fascinating to work with.
+I recently the fastapi by [Tiangolo](https://fastapi.tiangolo.com/) to build my backend and I find fascinating to work with.
 
-🤔 I’m looking for help with microservices based on docker and done in fastapi, any help will go a long way
+I have a deeper understanding of PHP and it's Laravel framework
 
 <!--
 **nzivo/nzivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
