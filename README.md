@@ -2,6 +2,8 @@
 
 ##### I currently live and work in [Nairobi, Kenya](https://magicalkenya.com/tembeakenya/)
 
+◯ [Personal Portfolio](https://nzivo.github.io)
+
 I have a good grasp in vanilla Javascript and two of it's popular frameworks, React Js and Vue Js.
 
 I recently the fastapi by [Tiangolo](https://fastapi.tiangolo.com/) to build my backend and I find fascinating to work with.
