@@ -6,7 +6,7 @@
 
 I have a good grasp in vanilla Javascript and two of it's popular frameworks, React Js and Vue Js.
 
-I recently the fastapi by [Tiangolo](https://fastapi.tiangolo.com/) to build my backend and I find fascinating to work with.
+I recently started learning the fastapi by [Tiangolo](https://fastapi.tiangolo.com/) to build my backend and I find fascinating to work with.
 
 I have a deeper understanding of PHP and it's Laravel framework
 
